@@ -1,0 +1,23 @@
+{
+  "name": "react-refresh-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "css-loader": "^0.28.9",
+    "node-sass": "^4.7.2",
+    "react": "^16.2.0",
+    "sass-loader": "^6.0.6",
+    "webpack": "^3.11.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.11.1"
+  },
+  "scripts": {
+    "build":"webpack",
+    "start:dev":"webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
