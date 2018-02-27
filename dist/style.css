@@ -1,0 +1,10 @@
+.chart-container{
+  width: 500px;
+  height: 500px;
+}
+
+.square{
+  width: 200px;
+  height:200px;
+  border: 2px solid red;
+}
